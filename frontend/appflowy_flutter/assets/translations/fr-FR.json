@@ -167,7 +167,8 @@
       "Properties": "Propriétés",
       "group": "Groupe",
       "addFilter": "Ajouter un filtre",
-      "deleteFilter": "Supprimer le filtre"
+      "deleteFilter": "Supprimer le filtre",
+      "filterBy": "Filtrer par..."
     },
     "field": {
       "hide": "Cacher",
