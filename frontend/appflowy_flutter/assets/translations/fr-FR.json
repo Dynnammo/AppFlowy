@@ -166,7 +166,8 @@
       "sortBy": "Filtrer par",
       "Properties": "Propriétés",
       "group": "Groupe",
-      "addFilter": "Ajouter un filtre"
+      "addFilter": "Ajouter un filtre",
+      "deleteFilter": "Supprimer le filtre"
     },
     "field": {
       "hide": "Cacher",
