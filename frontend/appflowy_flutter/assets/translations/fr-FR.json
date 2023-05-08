@@ -225,7 +225,12 @@
       "panelTitle": "Sélectionnez une option ou créez-en une",
       "searchOption": "Rechercher une option"
     },
-    "menuName": "Grille"
+    "menuName": "Grille",
+    "textFilter": {
+      "choicechipPrefix": {
+        "endWith": "Finit par"
+      }
+    }
   },
   "document": {
     "menuName": "Document",
