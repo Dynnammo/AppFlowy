@@ -121,7 +121,8 @@
     "signIn": "Se connecter",
     "signOut": "Se déconnecter",
     "complete": "Achevé",
-    "save": "Enregistrer"
+    "save": "Enregistrer",
+    "Done": "Fait"
   },
   "label": {
     "welcome": "Bienvenue !",
